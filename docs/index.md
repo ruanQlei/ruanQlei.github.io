@@ -53,7 +53,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 12、[Python数据分析之思维导图汇总](https://blog.csdn.net/Goldxwang/article/details/93990304)  
 
-13、[50个Python数据分析实战案例 | 项目](https://zhuanlan.zhihu.com/p/95526617)  
+13、[50个Python数据分析实战案例&项目](https://zhuanlan.zhihu.com/p/95526617)  
 
 14、[20个python数据分析实战项目（附源码）](https://www.cnblogs.com/gc2770/p/14932132.html)  
 
